@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Besfort Ymaj</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <style>
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Besfort Ymaj's Contacts</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="web.njit.edu/by56/project1.html">Portfolio</a></li>
+        <li><a href="https://www.linkedin.com/in/besfort-ymaj-487798154/">Linkden</a></li>
+        <li><a href="https://www.instagram.com/besdaman/?hl=en">Instagram</a></li>
+        <li><a href="https://twitter.com/enslavedmuffin?lang=en">Twitter</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron">
+  <div class="container text-center">
+    <h1>Besfort Ymaj</h1>
+    <img src="bes.jpg" alt="Me" height="268" width="350">
+    <p>I am currently attending The New Jersey Institue of technology!<br>I am eager to gain Valuable Industry Experience <br> Below I have some of my Skills.</p>
+  </div>
+</div>
+  
+<div class="container-fluid bg-3 text-center">    
+  <h3>Some Skills</h3><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <p>HTML</p>
+      <img src="html.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      <p>CSS</p>
+      <img src="css.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      <p>JS</p>
+      <img src="JS.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+      <p>MySql</p>
+      <img src="mysql.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div><br>
+
+<div class="container-fluid bg-3 text-center">    
+  <h3>Old Jobs</h3><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <p>Cashier at A&P</p>
+      <img src="a&p.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      <p>Server at Big Red Tomato</p>
+      <img src="brt.jpg" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3"> 
+      <p>Barista and Server at River Palm Terrance</p>
+      <img src="rp.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-3">
+      <p>Website technical support at Succhi Inc.</p>
+      <img src="succhi.png" class="img-responsive" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div><br><br>
+
+<footer class="container-fluid text-center">
+  <p>Thanks for Viewing my Profolio!<br> Feel free to contact me @ 201-450-6597!
+  </p>
+</footer>
+
+</body>
+</html>
